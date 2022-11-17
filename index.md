@@ -8,7 +8,7 @@
 
 > I am turning 14 years old on December 1
 
-> In 2
+> In 2022, I startes going tp ateneo.
 
 > I can dance. I started dancing when I was in pre-school. I rememeber that I am always infornt of the stage because I'm the only one who is dancing
 
