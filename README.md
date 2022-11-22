@@ -4,6 +4,10 @@
 
 > Our Beloved Summer
 
+![image](https://user-images.githubusercontent.com/118236906/203208523-54e74984-8f1d-41de-97ab-74c55f890f97.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__zrywrDLDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives. Choi Woong seems naive and a free-spirited man, but he wants to have something for the first time in his life. For that, he shows what he holds in his mind. Kook Yeon Soo aimed to become the top student at her school, but she is now an adult who lives fiercely, adapting to her reality.
 
 >Twenty-Five Twenty-One
