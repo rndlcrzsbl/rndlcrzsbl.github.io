@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/118236906/203209377-a92a913f-d1c9-4c67-8524-90f6b8792bbb.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/__zrywrDLDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7owrBFx9V75Clym1gGSDrH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_dDoDQ8u94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Years after filming a viral documentary in high school, two bickering ex-lovers get pulled back in front of the camera — and into each other's lives. Choi Woong seems naive and a free-spirited man, but he wants to have something for the first time in his life. For that, he shows what he holds in his mind. Kook Yeon Soo aimed to become the top student at her school, but she is now an adult who lives fiercely, adapting to her reality.
