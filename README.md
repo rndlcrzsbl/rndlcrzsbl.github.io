@@ -15,6 +15,8 @@ Years after filming a viral documentary in high school, two bickering ex-lovers 
 
 ![image](https://user-images.githubusercontent.com/118236906/203209589-1933b788-7e93-4f2a-a8d3-3794ad1ac34a.png)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX3f6ejuDaRcD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gYp4cKumTwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In a time when dreams seem out of reach, a teen fencer pursues big ambitions and meets a hardworking young man who seeks to rebuild his life.
