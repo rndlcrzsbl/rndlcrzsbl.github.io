@@ -26,6 +26,10 @@ The South Korean financial crisis also causes Baek Yi Jin’s father's business 
 
 >20th Century Girl
 
+![image](https://user-images.githubusercontent.com/118236906/203456729-74884556-079b-429f-982a-3cc2556453c2.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFS4_qevE7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In 1999, a teen with a heart of gold begins keeping close tabs on a popular classmate as a favor to her smitten best friend.
 
 Bo Ra is 17-year-old high school student. She is good at taekwondo and has a bright and positive personality. She is also a member of the broadcasting club at her school. Woon Ho is a member of the same broadcasting club.
